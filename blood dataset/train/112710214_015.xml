@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>112710214_015.jpg</filename>
+	<path>D:\AI and CV course\Computer Vision Technology\blood_cell\test\112710214_015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>368</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WBC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>107</ymin>
+			<xmax>278</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

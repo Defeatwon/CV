@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_6823_jpg.rf.d2dc77e51b2045103c08f9aaf4046dd0.jpg</filename>
+	<path>C:\Users\jinny\Desktop\cv\Package dataset\train\IMG_6823_jpg.rf.d2dc77e51b2045103c08f9aaf4046dd0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Package</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>1277</ymin>
+			<xmax>720</xmax>
+			<ymax>1779</ymax>
+		</bndbox>
+	</object>
+</annotation>

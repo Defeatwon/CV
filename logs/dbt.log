@@ -1,0 +1,30 @@
+[0m10:37:58.792040 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000191A77BC3B0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000191A4BC8F50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000191A7399E20>]}
+
+
+============================== 10:37:58.826482 | 131e084b-6d65-4d4f-8713-0ba4da1b52f2 ==============================
+[0m10:37:58.826482 [info ] [MainThread]: Running with dbt=1.10.15
+[0m10:37:58.827480 [debug] [MainThread]: running dbt with arguments {'version_check': 'True', 'no_print': 'None', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'target_path': 'None', 'printer_width': '80', 'write_json': 'True', 'introspect': 'True', 'log_cache_events': 'False', 'empty': 'None', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'profiles_dir': 'C:\\Users\\jinny\\.dbt', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'partial_parse': 'True', 'indirect_selection': 'eager', 'use_colors': 'True', 'invocation_command': 'dbt init', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m10:37:58.875443 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\jinny\.dbt
+[0m10:38:44.372736 [debug] [MainThread]: Starter project path: C:\Users\jinny\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\include\starter_project
+[0m10:38:44.407298 [info ] [MainThread]: 
+Your new dbt project "Lab_1" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m10:38:44.409294 [info ] [MainThread]: Setting up your profile.
+[0m10:38:48.992829 [info ] [MainThread]: Profile Lab_1 written to C:\Users\jinny\.dbt\profiles.yml using target's sample configuration. Once updated, you'll be able to start developing with dbt.
+[0m10:38:48.993838 [debug] [MainThread]: Command `dbt init` succeeded at 10:38:48.993838 after 50.40 seconds
+[0m10:38:48.994842 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000191A7829A30>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000191A705CB60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000191A705CEF0>]}
+[0m10:38:48.995835 [debug] [MainThread]: Flushing usage events
+[0m10:38:50.639412 [debug] [MainThread]: An error was encountered while trying to flush usage events

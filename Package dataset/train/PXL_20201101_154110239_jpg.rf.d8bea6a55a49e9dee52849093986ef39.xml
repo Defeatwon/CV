@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>PXL_20201101_154110239_jpg.rf.d8bea6a55a49e9dee52849093986ef39.jpg</filename>
+	<path>C:\Users\jinny\Desktop\cv\Package dataset\train\PXL_20201101_154110239_jpg.rf.d8bea6a55a49e9dee52849093986ef39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Package</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>637</ymin>
+			<xmax>623</xmax>
+			<ymax>901</ymax>
+		</bndbox>
+	</object>
+</annotation>
